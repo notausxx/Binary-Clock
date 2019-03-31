@@ -6,8 +6,8 @@ First Version of my Binary Clock (own Beginner Projekt)
 
 Arduino <br>
 DS1307 <br>
-12 LED <br>
-12 Resistors 330 <br>
+12x LED <br>
+12x Resistors 330 <br>
 Materials of your choise für the box <br>
 
 
